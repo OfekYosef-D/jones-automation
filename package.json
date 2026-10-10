@@ -1,0 +1,10 @@
+{
+  "name": "jones-automation",
+  "private": true,
+  "scripts": {
+    "start": "node automation.js"
+  },
+  "dependencies": {
+    "playwright": "^1.56.0"
+  }
+}
